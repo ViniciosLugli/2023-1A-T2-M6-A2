@@ -32,7 +32,7 @@ Now you can see the modified frames in real-time and the output video will be sa
 
 The code saves the modified frames with rectangles around the detected faces in a new video file. The output video is saved in the "output" folder as "output_demo.mp4".
 
-![demo output](./output/output_demo.mp4)
+![demo output](https://github.com/ViniciosLugli/2023-1A-T2-M6-A2/assets/40807526/855f414d-159a-47f3-a776-7463863a31e3)
 
 # Notes
 
